@@ -1,0 +1,22 @@
+{
+  "app": {
+    "[project]/src/app/page": [
+      "static/media/3c7c6164b2587822-s.p.16u3vygyjnhr0.woff2",
+      "static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2",
+      "static/media/7ddd198311ba7843-s.p.3kq6k02b2ysv1.woff2"
+    ],
+    "[project]/src/app/translate/page": [
+      "static/media/3c7c6164b2587822-s.p.16u3vygyjnhr0.woff2",
+      "static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2",
+      "static/media/7ddd198311ba7843-s.p.3kq6k02b2ysv1.woff2"
+    ],
+    "[project]/src/app/worksheet/page": [
+      "static/media/3c7c6164b2587822-s.p.16u3vygyjnhr0.woff2",
+      "static/media/03bda585a99c6450-s.p.32sris142tqlb.woff2",
+      "static/media/7ddd198311ba7843-s.p.3kq6k02b2ysv1.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
